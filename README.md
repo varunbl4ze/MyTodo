@@ -51,7 +51,7 @@ python app.py
 5.Open in browser:
 
 http://127.0.0.1:8000
-(This is a development server)
+(Note- This runs on flask development server)
 
 
 
