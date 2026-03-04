@@ -33,6 +33,7 @@ This project was created to understand how backend logic, databases, and fronten
 1.Clone the repository
 
 https://github.com/varunbl4ze/MyTodo
+cd MyTodo
 
 2.Create a virtual environment (recommended)
 
