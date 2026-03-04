@@ -4,17 +4,27 @@ A simple web-based Todo application built using Python (Flask), SQLite, and basi
 This project was created to understand how backend logic, databases, and frontend templates work together in a real-world web application.
 
 *Features
+
 1.Add new tasks
+
 2.Update existing tasks
+
 3.Delete tasks
+
 4.Persistent data storage using SQLite
+
 5.Simple and clean UI
 
 *Tech Stack
+
 1.Python
+
 2.Flask
+
 3.SQLite
+
 4.HTML
+
 5.Bootstrap
 
 
